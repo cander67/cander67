@@ -4,7 +4,7 @@ Hi 👋 My name is Cyrus Anderson
 Materials Scientist with ambition to apply Materials Informatics to materials design and product development.
 -------------------------------------------------------------------------------------------------------------
 
-10+ years experience developing and validating the performance of adhesive products for automotive applications. Inventor of new bonding technologies. Experience with biopolymers. Fascinated by the opportunity to use Materials Informatics to "work smarter, not harder" when it comes to materials design. Motivated to use machine learning to identify the right experiments to run in the lab or pilot plant.
+10+ years experience developing and validating the performance of adhesive products for automotive applications. Inventor of new bonding technologies. Experience with biopolymers. Fascinated by the opportunity to use Materials Informatics to "work smarter, not harder" when it comes to experimental aspects of materials design. Motivated to use machine learning to identify the right experiments to run in the lab or pilot plant.
 
 * 🌍  I'm based in Bellingham, Washington
 * ✉️  You can contact me at [anderson.cyrus@gmail.com](mailto:anderson.cyrus@gmail.com)
