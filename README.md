@@ -7,7 +7,6 @@ Materials Scientist with ambition to apply Materials Informatics to materials de
 10+ years experience developing and validating the performance of adhesive products for automotive applications. Inventor of new bonding technologies. Experience with biopolymers. Fascinated by the opportunity to use Materials Informatics to "work smarter, not harder" when it comes to experimental aspects of materials design. Motivated to use machine learning to identify the right experiments to run in the lab or pilot plant.
 
 * 🌍  I'm based in Bellingham, Washington
-* ✉️  You can contact me at [anderson.cyrus@gmail.com](mailto:anderson.cyrus@gmail.com)
 * 🧠  I'm learning Python and the essential libraries for ML
 * 🤝  I'm open to collaborating on Cheminformatics and Materials Informatics-based projects
 
